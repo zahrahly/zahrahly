@@ -119,11 +119,6 @@
 ### 💖 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahrahly&show_icons=true&title_color=FF1493&icon_color=FF69B4&text_color=333333&bg_color=FFE4E1&hide_border=true&border_radius=15" height="175" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zahrahly&layout=compact&title_color=FF1493&icon_color=FF69B4&text_color=333333&bg_color=FFE4E1&hide_border=true&border_radius=15" height="175" alt="Top Languages" />
-  
-  <br/><br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zahrahly&background=FFE4E1&ring=FF69B4&fire=FF1493&currStreakNum=FF1493&sideNums=333333&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=333333&hide_border=true&border_radius=15" width="85%" alt="GitHub Streak" />
 </div>
