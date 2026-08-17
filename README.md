@@ -38,7 +38,7 @@
 > *“I craft digital experiences where structured backend logic meets premium visual aesthetics.”* ✨
 
 *   💻 **What I Do:** Specialized in building responsive, scalable fullstack web applications with modern frontend frameworks & structured databases.
-*   🎓 **Background:** Fresh Graduate in **Information Systems** with a **3.94 GPA**.
+*   🎓 **Background:** Fresh Graduate in **Information Systems** with a **3.90 GPA**.
 *   🏆 **Certification:** Certified **Junior Web Programmer (BNSP)** & **IT Specialist (Databases & Data Analytics)**.
 *   💬 **Ask Me About:** Laravel, React, Tailwind CSS, MySQL, and UI/UX Design with Figma.
 *   📫 **Let's Talk:** Open for full-time opportunities, freelance projects, and exciting collaborations!
