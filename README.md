@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggMaIluV8T1lGg/giphy.gif" width="140" alt="Cute PC" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&width=700&height=40&lines=%24+npm+start+zahrah-portfolio;%E2%9C%A8+Fresh+Graduate+Fullstack+Developer+%E2%9C%A8;%F0%9F%8E%A8+UI%2FUX+Enthusiast+%E2%80%A2+Creative+Coder;%F0%9F%92%BB+Laravel+%E2%80%A2+React+%E2%80%A2+Tailwind+%E2%80%A2+MySQL" alt="Typing SVG" />
 
-# 🌸 Zahrah Aliyah 🌸
-### ─── ⋆⋅☆⋅⋆ ───
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&width=650&height=45&lines=%E2%9C%A8+Fresh+Graduate+Fullstack+Developer+%E2%9C%A8;%F0%9F%8E%A8+UI%2FUX+Enthusiast+%26+Web+Creator;%F0%9F%92%BB+Crafting+clean+code+%26+aesthetic+designs+%F0%9F%8C%B8" alt="Typing SVG" />
+<!-- 🌸 PINK TERMINAL CARD — Upload terminal-card.svg to your repo first! 🌸 -->
+<img src="terminal-card.svg" width="90%" alt="Zahrah Pink Terminal Card" />
 
 <br/>
 
-<!-- 🎀 STATUS PILLS 🎀 -->
 <p align="center">
   <img src="https://img.shields.io/badge/💼_Status-Open_For_Work-FF69B4?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🎓_Education-Information_Systems_(3.94)-FF1493?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_GPA-3.94-FF1493?style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/📍_Location-Surabaya,_Indonesia-FFB6C1?style=flat-square" />
 </p>
 
-<!-- 🎀 TOMBOL ACTION PORTOFOLIO & LINKEDIN 🎀 -->
 <p align="center">
   <a href="https://portfolio-zahrah.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Website-FF69B4?style=for-the-badge&logoColor=white" />
@@ -35,13 +33,13 @@
 
 ### 🌸 About Me
 
-> *“I craft digital experiences where structured backend logic meets premium visual aesthetics.”* ✨
+> *"I craft digital experiences where structured backend logic meets premium visual aesthetics."* ✨
 
-*   💻 **What I Do:** Specialized in building responsive, scalable fullstack web applications with modern frontend frameworks & structured databases.
-*   🎓 **Background:** Fresh Graduate in **Information Systems** with a **3.94 GPA**.
-*   🏆 **Certification:** Certified **Junior Web Programmer (BNSP)** & **IT Specialist (Databases & Data Analytics)**.
-*   💬 **Ask Me About:** Laravel, React, Tailwind CSS, MySQL, and UI/UX Design with Figma.
-*   📫 **Let's Talk:** Open for full-time opportunities, freelance projects, and exciting collaborations!
+- 💻 **What I Do:** Specialized in building responsive, scalable fullstack web applications with modern frontend frameworks & structured databases.
+- 🎓 **Background:** Fresh Graduate in **Information Systems** with a **3.94 GPA**.
+- 🏆 **Certification:** Certified **Junior Web Programmer (BNSP)** & **IT Specialist (Databases & Data Analytics)**.
+- 💬 **Ask Me About:** Laravel, React, Tailwind CSS, MySQL, and UI/UX Design with Figma.
+- 📫 **Let's Talk:** Open for full-time opportunities, freelance projects, and exciting collaborations!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
 
@@ -85,33 +83,33 @@
 ### 📁 Featured Projects
 
 #### 🍂 01. Wismilak Cigars Web Platform
-> **Event, Membership & Product Showcase**  
-> An elegant, responsive product showcase website designed to present Wismilak's luxury cigar collection and brand heritage.  
+> **Event, Membership & Product Showcase**
+> An elegant, responsive product showcase website to present Wismilak's luxury cigar collection and brand heritage.
 > 🏷️ `PHP (Laravel)` `Tailwind CSS` `Responsive Design` `MySQL`
 
 #### ⚖️ 02. PMII Hukum UPN Organization Portal
-> **Community & Information System**  
-> Official organizational portal featuring article publication, event schedules, and digital member management.  
+> **Community & Information System**
+> Official organizational portal featuring article publication, event schedules, and digital member management.
 > 🏷️ `PHP` `Bootstrap` `JavaScript` `MySQL`
 
 #### 🌸 03. Creativo — Creative Learning & Marketplace
-> **Education & E-Commerce Web App**  
-> Creative learning platform with online course enrollment, certificate generation, and integrated UMKM artwork marketplace.  
+> **Education & E-Commerce Web App**
+> Creative learning platform with online course enrollment, certificate generation, and integrated UMKM artwork marketplace.
 > 🏷️ `Laravel` `Tailwind CSS` `JavaScript` `MySQL`
 
 #### 📚 04. Buku Tamu Dinas Pendidikan Jatim
-> **Administrative Guest Management System**  
-> Digital guest registration system with interactive dashboards, survey modules, and real-time visitor reporting.  
+> **Administrative Guest Management System**
+> Digital guest registration system with interactive dashboards, survey modules, and real-time visitor reporting.
 > 🏷️ `Laravel` `Tailwind CSS` `MySQL`
 
 #### 🧸 05. Kidzello — Interactive Learning App
-> **Child Education UI/UX Design**  
-> Child-friendly learning application featuring screen-time control, parental progress tracking, and gamified modules.  
+> **Child Education UI/UX Design**
+> Child-friendly learning application featuring screen-time control, parental progress tracking, and gamified modules.
 > 🏷️ `Figma` `User Research` `Prototyping` `Design System`
 
 #### 🏡 06. SiDesa — Village Inventory System
-> **Public Sector Asset Management**  
-> Inventory management system designed to streamline rural asset tracking and public reporting transparency.  
+> **Public Sector Asset Management**
+> Inventory management system to streamline rural asset tracking and public reporting transparency.
 > 🏷️ `Figma` `Wireframing` `UI/UX Research`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
@@ -122,9 +120,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zahrahly&show_icons=true&title_color=FF1493&icon_color=FF69B4&text_color=333333&bg_color=FFE4E1&hide_border=true&border_radius=15" height="175" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zahrahly&layout=compact&title_color=FF1493&icon_color=FF69B4&text_color=333333&bg_color=FFE4E1&hide_border=true&border_radius=15" height="175" alt="Top Languages" />
-  
+
   <br/><br/>
-  
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zahrahly&background=FFE4E1&ring=FF69B4&fire=FF1493&currStreakNum=FF1493&sideNums=333333&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=333333&hide_border=true&border_radius=15" width="85%" alt="GitHub Streak" />
 </div>
 
