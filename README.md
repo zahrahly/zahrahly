@@ -5,7 +5,7 @@
 <br/><br/>
 
 <!-- 🌸 PINK TERMINAL CARD — Upload terminal-card.svg to your repo first! 🌸 -->
-<img src="terminal-card.svg" width="90%" alt="Zahrah Pink Terminal Card" />
+<img src="terminal-cardd.svg" width="90%" alt="Zahrah Pink Terminal Card" />
 
 <br/>
 
