@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="310" viewBox="0 0 860 310">
+
+  <!-- Outer pink border -->
+  <rect x="0" y="0" width="860" height="310" rx="14" ry="14" fill="#ff1493"/>
+
+  <!-- Inner dark background -->
+  <rect x="3" y="3" width="854" height="304" rx="12" ry="12" fill="#1a0a14"/>
+
+  <!-- Title bar pink -->
+  <rect x="3" y="3" width="854" height="36" rx="12" ry="12" fill="#ff1493"/>
+  <rect x="3" y="25" width="854" height="14" fill="#ff1493"/>
+
+  <!-- macOS window buttons -->
+  <circle cx="28" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="21" r="6" fill="#27c93f"/>
+
+  <!-- Title bar text -->
+  <text x="430" y="26" font-family="Courier New, monospace" font-size="12" fill="white" text-anchor="middle">zahrah@github ~ %  ./profile.sh --theme=pink</text>
+
+  <!-- Pink vertical divider -->
+  <line x1="195" y1="50" x2="195" y2="295" stroke="#ff1493" stroke-width="1" opacity="0.6"/>
+
+  <!-- LEFT: Cute bunny -->
+  <text x="30" y="90"  font-family="Courier New, monospace" font-size="16" fill="#ff69b4">(\__/)</text>
+  <text x="30" y="112" font-family="Courier New, monospace" font-size="16" fill="#ff69b4">(o uo)</text>
+  <text x="30" y="134" font-family="Courier New, monospace" font-size="16" fill="#ff69b4">/ &gt;  </text>
+  <text x="62" y="134" font-family="Courier New, monospace" font-size="14" fill="#ff69b4">&#128187;</text>
+
+  <!-- RIGHT: Profile labels (pink) -->
+  <text x="215" y="76"  font-family="Courier New, monospace" font-size="13" fill="#ff69b4">&#127800; Name</text>
+  <text x="215" y="101" font-family="Courier New, monospace" font-size="13" fill="#ff69b4">&#127872; Role</text>
+  <text x="215" y="126" font-family="Courier New, monospace" font-size="13" fill="#ff69b4">&#127891; Major</text>
+  <text x="215" y="151" font-family="Courier New, monospace" font-size="13" fill="#ff69b4">&#127979; College</text>
+  <text x="215" y="176" font-family="Courier New, monospace" font-size="13" fill="#ff69b4">&#128205; Location</text>
+  <text x="215" y="201" font-family="Courier New, monospace" font-size="13" fill="#ff69b4">&#9889; Stack</text>
+  <text x="215" y="226" font-family="Courier New, monospace" font-size="13" fill="#ff69b4">&#11088; GPA</text>
+  <text x="215" y="251" font-family="Courier New, monospace" font-size="13" fill="#ff69b4">&#128150; Status</text>
+
+  <!-- RIGHT: Profile values (white) -->
+  <text x="360" y="76"  font-family="Courier New, monospace" font-size="13" fill="#ffffff">: Zahrah Aliyah</text>
+  <text x="360" y="101" font-family="Courier New, monospace" font-size="13" fill="#ffffff">: Fullstack Developer &amp; UI/UX Designer</text>
+  <text x="360" y="126" font-family="Courier New, monospace" font-size="13" fill="#ffffff">: Information Systems</text>
+  <text x="360" y="151" font-family="Courier New, monospace" font-size="13" fill="#ffffff">: UPN Veteran Jawa Timur</text>
+  <text x="360" y="176" font-family="Courier New, monospace" font-size="13" fill="#ffffff">: Surabaya, Indonesia</text>
+  <text x="360" y="201" font-family="Courier New, monospace" font-size="13" fill="#ffffff">: Laravel · React · Tailwind · MySQL</text>
+  <text x="360" y="226" font-family="Courier New, monospace" font-size="13" fill="#ffffff">: 3.94 / 4.00</text>
+  <text x="360" y="251" font-family="Courier New, monospace" font-size="13" fill="#ff69b4">: Open For Work ✨</text>
+
+  <!-- Cursor blink line -->
+  <text x="215" y="278" font-family="Courier New, monospace" font-size="13" fill="#ff1493">$ _</text>
+
+  <!-- Bottom decorative dots -->
+  <circle cx="760" cy="280" r="4" fill="#ff1493" opacity="0.4"/>
+  <circle cx="775" cy="280" r="4" fill="#ff69b4" opacity="0.4"/>
+  <circle cx="790" cy="280" r="4" fill="#ffb6c1" opacity="0.4"/>
+
+</svg>
